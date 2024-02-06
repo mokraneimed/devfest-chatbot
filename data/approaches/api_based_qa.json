@@ -1,0 +1,602 @@
+[
+    {
+        "question": "What is DevFest 2023?",
+        "answer": " DevFest 2023 is a yearly tech event organized by Google Developers Groups. At DevFest, you can meet other tech enthusiasts, learn new things, and stay updated on the latest tech trends."
+    },
+    {
+        "question": "Who organizes DevFest 2023?",
+        "answer": " Google Developers Groups."
+    },
+    {
+        "question": "What can attendees do at DevFest 2023?",
+        "answer": " Attendees at DevFest 2023 can meet other tech enthusiasts, learn new things, stay updated on the latest tech trends, tackle tech problems, code, create, and compete. They can also get help from mentors with their issues."
+    },
+    {
+        "question": "What kind of tech enthusiasts can be found at DevFest 2023?",
+        "answer": " At DevFest 2023, you can meet other tech enthusiasts, learn new things, and stay updated on the latest tech trends."
+    },
+    {
+        "question": "What are some of the latest tech trends discussed at DevFest 2023?",
+        "answer": " I don't know."
+    },
+    {
+        "question": "What type of event is Devfest'23?",
+        "answer": " Devfest'23 is a yearly tech event organized by Google Developers Groups. It consists of two parts: a hackathon and online challenges."
+    },
+    {
+        "question": "When will the Challenges portion of Devfest'23 take place?",
+        "answer": " October 19th, 2023"
+    },
+    {
+        "question": "What type of activities will be available during the Hackathon portion of Devfest'23?",
+        "answer": " During the Hackathon portion of Devfest'23, participants will be able to code, create, and compete. There will also be mentorship sessions available to provide guidance and answer questions."
+    },
+    {
+        "question": "What is the timeline for Devfest'23?",
+        "answer": " The timeline for Devfest'23 is October 19th for the Challenges and November 30th for the Hackathon."
+    },
+    {
+        "question": "What is the purpose of Devfest'23?",
+        "answer": " The purpose of Devfest'23 is to provide a platform for tech enthusiasts to meet, learn, and stay updated on the latest tech trends, as well as to participate in challenges and a hackathon."
+    },
+    {
+        "question": "What is the date of the Challenges part?",
+        "answer": " October 19th, 2023"
+    },
+    {
+        "question": "How many participants are expected to join the Hackathon?",
+        "answer": " 100 participants are expected to join the Hackathon."
+    },
+    {
+        "question": "What type of skills will be showcased at the Hackathon?",
+        "answer": " Creativity and innovation, clean implementation, and business value."
+    },
+    {
+        "question": "What is the format of the Challenges part?",
+        "answer": " The Challenges part is an individual competition with a scoring system based on the number and difficulty of solved challenges and the time needed for that. Participants who solve a certain threshold of challenges will receive a certificate."
+    },
+    {
+        "question": "What is the duration of the Hackathon?",
+        "answer": " The Hackathon will take place from October 30th to the 1st December, 2023."
+    },
+    {
+        "question": "What type of event is it?",
+        "answer": " It is a hackathon and online challenges event with individual competition format and fields such as Web, Mobile, AI, Cyber Security, and Game Dev."
+    },
+    {
+        "question": "What is the structure of the event?",
+        "answer": " The event is divided into two parts: Challenges happening online on October 19, where participants can tackle tech problems and learn, and the Hackathon on November 30, where participants can code, create, and compete. The Challenges part allows an unlimited number of participants to join online, while the Hackathon is expecting 100 participants. Participants have to choose a specific field to participate in."
+    },
+    {
+        "question": "What will be included in the hackathon?",
+        "answer": " The hackathon will include online challenges, mentorship sessions, and a theme of Smart Cities with subthemes and a hacker guide provided to participants."
+    },
+    {
+        "question": "What kind of online challenges will be available?",
+        "answer": " Web, Mobile, AI, Cyber Security, and Game Dev."
+    },
+    {
+        "question": "How long will the event last?",
+        "answer": " The event will last 10 days, from October 19th to November 30th."
+    },
+    {
+        "question": "What is the date of the Event Challenges?",
+        "answer": " October 19th, 2023"
+    },
+    {
+        "question": "Where will the Event Challenges take place?",
+        "answer": " The Event Challenges will take place on the GDG Challenges platform on October 19th, 2023."
+    },
+    {
+        "question": "How long will the Event Challenges last?",
+        "answer": " The Event Challenges will last until October 19th."
+    },
+    {
+        "question": "What platform will the Event Challenges be hosted on?",
+        "answer": " The Event Challenges will be hosted on the GDG Challenges platform at gdg.challenges.com."
+    },
+    {
+        "question": "What is the timeline for the Event Challenges?",
+        "answer": " The Event Challenges timeline is 10 days, starting on October 19th and ending on November 30th."
+    },
+    {
+        "question": "What are the different event challenges available?",
+        "answer": " The event challenges available are Web, Mobile, AI, Cyber Security, and Game Dev."
+    },
+    {
+        "question": "What fields are covered in the event challenges?",
+        "answer": " Web, Mobile, AI, Cyber Security, Game Dev."
+    },
+    {
+        "question": "What is the focus of the Web event challenge?",
+        "answer": " The Web event challenge focuses on web development."
+    },
+    {
+        "question": "What is the focus of the Mobile event challenge?",
+        "answer": " Creating mobile applications."
+    },
+    {
+        "question": "What is the focus of the AI event challenge?",
+        "answer": " The AI event challenge focuses on developing solutions using artificial intelligence."
+    },
+    {
+        "question": "What is the judging criteria for the event challenges?",
+        "answer": " The judging criteria for the event challenges is a scoring system taking into consideration the number and difficulty of solved challenges alongside the time needed for that. Cheating will disqualify the participant in order to preserve the integrity of the competition."
+    },
+    {
+        "question": "How is the scoring system determined for the event challenges?",
+        "answer": " The scoring system takes into consideration the number and difficulty of solved challenges alongside the time needed for that."
+    },
+    {
+        "question": "What factors are taken into consideration when judging the event challenges?",
+        "answer": " The number and difficulty of solved challenges, the time needed to solve them, and whether or not the participant cheated."
+    },
+    {
+        "question": "How many challenges must be solved to receive a good score?",
+        "answer": " It depends on the number and difficulty of the challenges, as well as the time needed to solve them."
+    },
+    {
+        "question": "How much time is allowed for solving the event challenges?",
+        "answer": " It depends on the number and difficulty of the challenges and the time needed for that."
+    },
+    {
+        "question": "How do I register for the event challenges?",
+        "answer": " You can register for the event challenges by signing up in GDG challenges plateform. Registration is open until the last day before the start of the challenges."
+    },
+    {
+        "question": "Is there a cost associated with registering for the event challenges?",
+        "answer": " No, there is no cost associated with registering for the event challenges."
+    },
+    {
+        "question": "What is the process for registering for the event challenges?",
+        "answer": " You can register for the event challenges by signing up in GDG challenges plateform until the last day before the start of the challenges."
+    },
+    {
+        "question": "Are there any age restrictions for registering for the event challenges?",
+        "answer": " No, there are no age restrictions for registering for the event challenges."
+    },
+    {
+        "question": "Are the event challenges only available online?",
+        "answer": " Yes, the event challenges are only available online."
+    },
+    {
+        "question": "What fields are available for participants to choose from?",
+        "answer": " Web, Mobile, AI, Cyber Security, Game Dev."
+    },
+    {
+        "question": "How does a participant select a field to participate in?",
+        "answer": " A participant can select a field to participate in by signing up in GDG Challenges plateform."
+    },
+    {
+        "question": "What criteria must be met in order to participate in a specific field?",
+        "answer": " Participants must choose a field from the list of available fields (Web, Mobile, AI, Cyber Security, Game Dev) and must not cheat in order to preserve the integrity of the competition."
+    },
+    {
+        "question": "Are there any restrictions on which fields a participant can choose from?",
+        "answer": " Yes, participants must choose from the fields listed: Web, Mobile, AI, Cyber Security, Game Dev."
+    },
+    {
+        "question": "What are the benefits of participating in a specific field?",
+        "answer": " Participating in a specific field can give you access to mentors who are experts in that field and can help you with any issues you may have."
+    },
+    {
+        "question": "What types of events are available on the GDG Challenges platform?",
+        "answer": " Events such as Devfest challenges that have a timeline of 10 days and take place on October 19th, 2023."
+    },
+    {
+        "question": "How can I find Devfest challenges on the GDG Challenges platform?",
+        "answer": " You can find Devfest challenges on the GDG Challenges platform at gdg.challenges.com."
+    },
+    {
+        "question": "What is the URL for the GDG Challenges platform?",
+        "answer": " gdg.challenges.com"
+    },
+    {
+        "question": "What are the benefits of participating in Devfest challenges?",
+        "answer": " Participating in Devfest challenges can help you tackle tech problems, learn new things, and stay updated on the latest tech trends."
+    },
+    {
+        "question": "What types of challenges are available on the GDG Challenges platform?",
+        "answer": " I don't know."
+    },
+    {
+        "question": "What are the Event Challenges?",
+        "answer": " Event Challenges are a competition format that consists of two parts: a hackathon and online challenges. Participants can compete in fields such as Web, Mobile, AI, Cyber Security, and Game Dev. All participants solving a certain threshold of challenges will receive a certificate."
+    },
+    {
+        "question": "How can I participate in the Event Challenges?",
+        "answer": " You can participate by signing up in GDG challenges plateform. Everyone is welcome to register for the challenges as they will be online."
+    },
+    {
+        "question": "What is the GDG Challenges Plateform?",
+        "answer": " The GDG Challenges Plateform is a website where you can find Devfest challenges and sign up to participate. The timeline for the event is 10 days, starting on October 19th, 2023. For additional clarifications and details, you can reach out to GDG through Community server discord and social media platforms."
+    },
+    {
+        "question": "What is the process for signing up for the Event Challenges?",
+        "answer": " You can sign up for the Event Challenges by registering on the GDG challenges platform until the last day before the start of the challenges."
+    },
+    {
+        "question": "What are the benefits of participating in the Event Challenges?",
+        "answer": " Participants who solve a certain threshold of challenges will receive a certificate, and winners will be announced and mentioned in the event's social media."
+    },
+    {
+        "question": "What type of computer components are included in the prizes?",
+        "answer": " I don't know."
+    },
+    {
+        "question": "What software subscriptions are included in the prizes?",
+        "answer": " I don't know."
+    },
+    {
+        "question": "What type of hoodies are included in the prizes?",
+        "answer": " I don't know."
+    },
+    {
+        "question": "How many prizes are available for the event challenges?",
+        "answer": " It depends on the number of participants."
+    },
+    {
+        "question": "What are the criteria for winning the event challenges?",
+        "answer": " Winners will be determined by a scoring system that takes into consideration the number and difficulty of solved challenges alongside the time needed for that. Cheating will disqualify the participant."
+    },
+    {
+        "question": "What are the event challenges?",
+        "answer": " The event challenges are web, mobile, AI, cyber security, and game dev."
+    },
+    {
+        "question": "What are the rules of the event?",
+        "answer": " Cheating will disqualify the participant in order to preserve the integrity of the competition. Registration are open until the last day before the start of the challenges. Winners will be anounced and mentioned in our social media. There will be mentors and experts to provide hints and guidance throughout the competition."
+    },
+    {
+        "question": "What happens if a participant cheats?",
+        "answer": " The participant will be disqualified."
+    },
+    {
+        "question": "How does the competition maintain its integrity?",
+        "answer": " Cheating will disqualify the participant."
+    },
+    {
+        "question": "What are the consequences of cheating?",
+        "answer": " Cheating will disqualify the participant."
+    },
+    {
+        "question": "What is the purpose of the leaderboard?",
+        "answer": " The leaderboard is used to track the progress of participants in the competition and to determine the winners at the end."
+    },
+    {
+        "question": "How will the leaderboard be updated?",
+        "answer": " The leaderboard will be updated throughout the competition, and will be frozen on the last phase."
+    },
+    {
+        "question": "What criteria will be used to rank participants on the leaderboard?",
+        "answer": " The number and difficulty of solved challenges alongside the time needed for that."
+    },
+    {
+        "question": "How will the leaderboard be displayed?",
+        "answer": " The leaderboard will be displayed on the Challenges platform and will be frozen on the last phase of the competition."
+    },
+    {
+        "question": "What is the last phase of the competition?",
+        "answer": " The last phase of the competition is when the leaderboard is frozen."
+    },
+    {
+        "question": "What kind of event challenges are available?",
+        "answer": " The event challenges available are Web, Mobile, AI, Cyber Security, and Game Dev."
+    },
+    {
+        "question": "What are the criteria for winning?",
+        "answer": " Winning criteria will be a scoring system taking into consideration the number and difficulty of solved challenges alongside the time needed for that. Cheating will disqualify the participant in order to preserve the integrity of the competition."
+    },
+    {
+        "question": "How will winners be anounced?",
+        "answer": " Winners will be anounced and mentioned in our social media."
+    },
+    {
+        "question": "What social media platforms will winners be mentioned on?",
+        "answer": " I don't know."
+    },
+    {
+        "question": "What are the rewards for winning?",
+        "answer": " Winners will be announced and mentioned in our social media, and they will receive computer components, software subscriptions, hoodies, and a certificate."
+    },
+    {
+        "question": "What type of event is the Challenges?",
+        "answer": " The Challenges is an individual competition event that consists of a hackathon and online challenges. Everyone is welcome to register for the challenges as they will be online and all participants solving a certain threshold of challenges will receive a certificate."
+    },
+    {
+        "question": "What is the format of the competition?",
+        "answer": " The format of the competition is an individual competition with two parts: a hackathon and online challenges. There will be mentors and experts to provide hints and guidance throughout the competition. Cheating will disqualify the participant in order to preserve the integrity of the competition."
+    },
+    {
+        "question": "Is the Challenges a team or individual competition?",
+        "answer": " The Challenges is an individual competition."
+    },
+    {
+        "question": "How many participants can compete in the Challenges?",
+        "answer": " An unlimited number of participants can compete in the Challenges."
+    },
+    {
+        "question": "What are the rules of the Challenges?",
+        "answer": " Participants must not cheat in order to preserve the integrity of the competition. The Challenges are an individual competition and everyone is welcome to register for them online. All participants solving a certain threshold of challenges will receive a certificate."
+    },
+    {
+        "question": "What type of event challenges will be available?",
+        "answer": " Web, Mobile, AI, Cyber Security, and Game Dev."
+    },
+    {
+        "question": "What kind of mentorship will be provided?",
+        "answer": " Mentors will be available to provide hints and guidance throughout the competition, help with issues, and answer questions during the hackathon."
+    },
+    {
+        "question": "Who will be providing the mentorship?",
+        "answer": " Mentors and experts."
+    },
+    {
+        "question": "What kind of hints and guidance will be provided?",
+        "answer": " Mentors will provide guidance and hints related to the theme of Smart Cities and the subthemes, as well as general help with any issues or questions the participants may have."
+    },
+    {
+        "question": "How will the mentors and experts be available during the competition?",
+        "answer": " The mentors and experts will be available to provide hints and guidance throughout the competition."
+    },
+    {
+        "question": "What is the threshold of challenges that must be solved to receive a certificate?",
+        "answer": " I don't know."
+    },
+    {
+        "question": "What type of challenges are included in the event?",
+        "answer": " Web, Mobile, AI, Cyber Security, and Game Dev."
+    },
+    {
+        "question": "What type of certificate will be awarded to participants?",
+        "answer": " A certificate of completion for solving a certain threshold of challenges."
+    },
+    {
+        "question": "How will participants receive their certificate?",
+        "answer": " Participants will receive their certificate if they solve a certain threshold of challenges."
+    },
+    {
+        "question": "Are there any additional requirements to receive a certificate?",
+        "answer": " No, everyone who solves a certain threshold of challenges will receive a certificate, regardless of other requirements."
+    },
+    {
+        "question": "When does registration for the event challenges close?",
+        "answer": " Registration closes on October 18th, 2023."
+    },
+    {
+        "question": "What is the deadline for registering for the event challenges?",
+        "answer": " The deadline for registering for the event challenges is the last day before the start of the challenges, which is October 19th, 2023."
+    },
+    {
+        "question": "How can I register for the event challenges?",
+        "answer": " You can register for the event challenges by signing up in GDG challenges plateform until the last day before the start of the challenges."
+    },
+    {
+        "question": "What is the process for registering for the event challenges?",
+        "answer": " Participants can register for the event challenges by signing up on the GDG challenges platform until the last day before the start of the challenges."
+    },
+    {
+        "question": "What happens if I miss the registration deadline for the event challenges?",
+        "answer": " If you miss the registration deadline, you will not be able to participate in the event challenges."
+    },
+    {
+        "question": "What kind of event challenges are available?",
+        "answer": " The event challenges available are Web, Mobile, AI, Cyber Security, and Game Dev."
+    },
+    {
+        "question": "Who should I contact for more information about the event challenges?",
+        "answer": " You can contact GDG through Community server discord and social media platforms for additional clarifications and details."
+    },
+    {
+        "question": "What is the best way to reach out to GDG for additional clarifications and details?",
+        "answer": " Reaching out to GDG through Community server discord and social media platforms."
+    },
+    {
+        "question": "What social media platforms can I use to get more information about the event challenges?",
+        "answer": " You can reach out to GDG through Community server discord and social media platforms."
+    },
+    {
+        "question": "What kind of support does GDG provide for event challenges?",
+        "answer": " GDG provides support for event challenges by providing clarifications and details through their Community server discord and social media platforms, and by providing a challenges platform at gdg.challenges.com."
+    },
+    {
+        "question": "What is the event Hackathon?",
+        "answer": " The event Hackathon is a hackathon and online challenges event with mentors to help participants, prizes including a trip to anywhere in the world, and teams of 5 participants."
+    },
+    {
+        "question": "When is the event Hackathon taking place?",
+        "answer": " The Hackathon is taking place on November 30th."
+    },
+    {
+        "question": "Where will the event Hackathon be held?",
+        "answer": " I don't know."
+    },
+    {
+        "question": "What activities will be available at the event Hackathon?",
+        "answer": " At the event Hackathon, there will be workshops, mentorship sessions, and online challenges. Prizes for the hackathon include a trip to anywhere in the world."
+    },
+    {
+        "question": "What is the cost to attend the event Hackathon?",
+        "answer": " The cost to attend the event Hackathon is free."
+    },
+    {
+        "question": "What is the theme of this year's Hackathon?",
+        "answer": " The theme of this year's Hackathon is Smart Cities."
+    },
+    {
+        "question": "What are the subthemes of this year's Hackathon?",
+        "answer": " The subthemes of this year's Hackathon will be provided only to the participants."
+    },
+    {
+        "question": "How can participants access the hacker guide?",
+        "answer": " The hacker guide will be provided only to the participants."
+    },
+    {
+        "question": "What kind of projects can be developed during the Hackathon?",
+        "answer": " Teams can develop any kind of project they want, as long as it meets the judging criteria of creativity and innovation, clean implementation, and business value."
+    },
+    {
+        "question": "What kind of resources are available to participants during the Hackathon?",
+        "answer": " During the Hackathon, participants will have access to mentorship sessions with experts in their fields, as well as online challenges. Teams will be limited to 5 participants."
+    },
+    {
+        "question": "What is the Event Hackathon?",
+        "answer": " The Event Hackathon is an event that consists of two parts: a hackathon and online challenges. It will take place from October 30th to the 1st December, 2023 and teams of 5 participants will be able to get help from mentors who are experts in their fields."
+    },
+    {
+        "question": "How many people can be on a team?",
+        "answer": " The team size is 5 participants."
+    },
+    {
+        "question": "What is the purpose of the Event Hackathon?",
+        "answer": " The purpose of the Event Hackathon is to provide a platform for participants to work together to develop innovative solutions to challenges related to Smart Cities."
+    },
+    {
+        "question": "What are the rules for the Event Hackathon?",
+        "answer": " The rules for the Event Hackathon are that teams must have 5 participants, each participant must bring their laptop, phone, charger, headphones, sweaters, and a T-shirt, and a sleeping bag. The theme of the hackathon is Smart Cities, and the subthemes and hacker guide will be provided to the participants."
+    },
+    {
+        "question": "What are the benefits of participating in the Event Hackathon?",
+        "answer": " Participants in the Event Hackathon will have access to mentorship sessions with experts in their fields, the opportunity to participate in online challenges, and the chance to win a trip to anywhere in the world."
+    },
+    {
+        "question": "What is the link to the official DevFest 2023 website?",
+        "answer": " The link to the official DevFest 2023 website is provided in the registration steps."
+    },
+    {
+        "question": "What is the process for registering for the DevFest 2023 Hackathon?",
+        "answer": " Visit the official DevFest 2023 website, click on the \"Register Now\" button, fill out the registration form, and then you will receive a confirmation email with more details about DevFest 2023."
+    },
+    {
+        "question": "What information is required to complete the registration form?",
+        "answer": " The information required to complete the registration form will depend on the specific field chosen by the participant."
+    },
+    {
+        "question": "What happens after the registration is complete?",
+        "answer": " Participants can sign up in the GDG Challenges platform and compete in the challenges. There will be a leaderboard on the Challenges platform for each field which will be frozen on the last phase of the competition."
+    },
+    {
+        "question": "How will I know if I am accepted or not?",
+        "answer": " You will be notified by email if you are accepted. Winners will also be announced and mentioned in our social media."
+    },
+    {
+        "question": "What is the purpose of the Event Hackathon?",
+        "answer": " The purpose of the Event Hackathon is to provide a platform for participants to work together to develop innovative solutions to challenges related to the theme of Smart Cities."
+    },
+    {
+        "question": "What is the process for submitting a project?",
+        "answer": " Teams will submit their project in DevPost including a project description, project presentation, and source code."
+    },
+    {
+        "question": "What information is required for a project submission?",
+        "answer": " A project submission requires a project description, project presentation, and source code."
+    },
+    {
+        "question": "What platform is used to submit projects?",
+        "answer": " DevPost"
+    },
+    {
+        "question": "What is the format of the project presentation?",
+        "answer": " The project presentation should include a project description, a project presentation, and source code."
+    },
+    {
+        "question": "What is the purpose of the Event Hackathon?",
+        "answer": " The purpose of the Event Hackathon is to provide a platform for participants to work together to develop innovative solutions to challenges related to the theme of Smart Cities."
+    },
+    {
+        "question": "What is the judging process for the Event Hackathon?",
+        "answer": " Teams will submit their project in DevPost, and then the judges will evaluate the projects based on the criteria of creativity and innovation, clean implementation, and business value."
+    },
+    {
+        "question": "What criteria are used to judge the Event Hackathon?",
+        "answer": " Creativity and innovation, clean implementation, and business value."
+    },
+    {
+        "question": "How is creativity and innovation evaluated in the Event Hackathon?",
+        "answer": " Teams of 5 participants will be judged on their creativity and innovation, as well as their clean implementation and business value. Mentors will be available to help teams with their issues."
+    },
+    {
+        "question": "What is the importance of clean implementation in the Event Hackathon?",
+        "answer": " Clean implementation is important in the Event Hackathon because it is one of the criteria that the judges will use to evaluate the projects. It is important to make sure that the code is well-structured and easy to understand."
+    },
+    {
+        "question": "What is the event Hackathon?",
+        "answer": " The event Hackathon is a hackathon and online challenges event with mentors to help participants, prizes including a trip to anywhere in the world, and teams of 5 participants."
+    },
+    {
+        "question": "What are the prizes for the Hackathon?",
+        "answer": " Prizes for the Hackathon include a trip to anywhere in the world, computer components, software subscriptions, and hoodies."
+    },
+    {
+        "question": "What is the grand prize for the Hackathon?",
+        "answer": " A trip to anywhere in the world."
+    },
+    {
+        "question": "Where can the grand prize for the Hackathon take you?",
+        "answer": " The grand prize for the Hackathon is a trip to anywhere in the world."
+    },
+    {
+        "question": "What other prizes are available for the Hackathon?",
+        "answer": " Prizes include computer components, software subscriptions and hoodies."
+    },
+    {
+        "question": "What is the event Hackathon?",
+        "answer": " The event Hackathon is a hackathon and online challenges event with mentors to help participants, prizes including a trip to anywhere in the world, and teams of 5 participants."
+    },
+    {
+        "question": "What kind of workshops will be available at the Hackathon?",
+        "answer": " There are no workshops scheduled for the Hackathon."
+    },
+    {
+        "question": "Are there any scheduled workshops for the Hackathon?",
+        "answer": " No, there are no workshops scheduled for the Hackathon."
+    },
+    {
+        "question": "Will there be mentorship sessions at the Hackathon?",
+        "answer": " Yes, there will be mentorship sessions at the Hackathon."
+    },
+    {
+        "question": "Who will be providing mentorship sessions at the Hackathon?",
+        "answer": " Experts in their fields will be providing mentorship sessions at the Hackathon."
+    },
+    {
+        "question": "What is the purpose of the event Hackathon?",
+        "answer": " The purpose of the event Hackathon is to provide participants with an opportunity to work on projects related to the theme of Smart Cities, with the help of mentors who are experts in their fields."
+    },
+    {
+        "question": "What is included in the Hackathon pack?",
+        "answer": " The Hackathon pack includes a laptop with its bag (charger/keyboard/mouse), phone and charger, headphones if needed, sweaters and one t-shirt, and a sleeping bag."
+    },
+    {
+        "question": "What type of laptop should I bring to the event?",
+        "answer": " It depends on what type of tasks you will be doing at the event. If you are unsure, it is best to bring a laptop that is powerful enough to handle the tasks you will be doing."
+    },
+    {
+        "question": "Do I need to bring my own headphones to the event?",
+        "answer": " Yes, you need to bring your own headphones if you need to listen to music."
+    },
+    {
+        "question": "Will I receive a new T-shirt at the event?",
+        "answer": " Yes, you will receive a new T-shirt at the event."
+    },
+    {
+        "question": "What type of event is the Hackathon?",
+        "answer": " The Hackathon is a coding and creating event where participants can compete."
+    },
+    {
+        "question": "What kind of mentorship will be available at the Hackathon?",
+        "answer": " Mentors will be available to provide guidance and answer questions during the hackathon."
+    },
+    {
+        "question": "Who are the mentors at the Hackathon?",
+        "answer": " The mentors at the Hackathon are experts in their fields who will be available to provide guidance and assistance to participants."
+    },
+    {
+        "question": "What topics will the mentors be experts in?",
+        "answer": " Smart Cities and the subthemes related to the hackathon."
+    },
+    {
+        "question": "What kind of issues can the mentors help with?",
+        "answer": " The mentors can help with any issues related to the hackathon or challenges, such as providing guidance, hints, and advice."
+    }
+]

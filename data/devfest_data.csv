@@ -1,0 +1,48 @@
+scope,title,detail
+Event,Description,"DevFest 2023, which is short for ""Developers Festival,"" is a yearly tech event organized by Google Developers Groups.
+At DevFest, you can meet other tech enthusiasts, learn new things, and stay updated on the latest tech trends. "
+Event,format and timeline,"Devfest'23 will cover two main tracks: Challenges happening online on October 26th, where you can tackle tech problems while learning and growing your skills, and the Hackathon on November 30th, where you can unleash your creativity to create a practical solution, work on it, competing againt other participants."
+Event,Participants number,"The challenges part, which takes place on October 26th, allows an unlimited number of participants to join online.
+As for the Hackathon on November 30th, we are expecting 100 participants to compete and showcase their technical skills.
+"
+Event,Structure,There will be two tracks: a hackathon and online challenges
+Event Challenges,Timeline and place,"Date: October 26th, 2023
+Place: GDG Challenges platform
+Timeline: 10 days"
+Event Challenges,Fields," Web, Mobile, AI, Cyber Security, Game Dev"
+Event Challenges,Judging,The judging criteria will be a scoring system taking into consideration the number and difficulty of solved challenges alongside the time needed for that
+Event Challenges,Registering,Everyone is welcome to register for the challenges as they will be online
+Event Challenges,Field selection,A participant has to choose a specific field to participate in
+Event Challenges,Challenges plateform,Find Devfest challenges at GDG Challenges plateform: gdg.challenges.com
+Event Challenges,Participation,You can participate by signing up in the GDG challenges plateform
+Event Challenges,Prizes,"Prizes include computer components, software subscriptions and hoodies"
+Event Challenges,Rules,Cheating will disqualify the participant in order to preserve the integrity of the competition 
+Event Challenges,Leaderboard,There will be a leaderboard on the Challenges plateform for every field. It will get freezed on the last phase of the competition 
+Event Challenges,Winning,Winners will be chosen following the judging criterias and then revealed on our social media pages.
+Event Challenges,Competition format,The Challenges are an individual competition
+Event Challenges,Mentorship,There will be mentors and experts to provide hints and guidance throughout the competition
+Event Challenges,Certificates,All participants solving a certain threshold of challenges will receive a certificate
+Event Challenges,Registration,Registrations are open until right before the start of the challenges
+Event Challenges,Contact,Additional clarifications and details can be obtained by reaching out to GDG Algiers through the community server on Discord or on social media platforms
+Event Hackathon,Date,"Date: from October 30th to December 1st, 2023"
+Event Hackathon,Theme,"The theme of this year will be Smart Cities. Subthemes, as well as the hacker guide, will be provided only to the participants."
+Event Hackathon,Teams,Each team has 5 participants at most.
+Event Hackathon,Registration,"The registration process for DevFest 2023 is simple and convenient. Follow these steps to secure your spot:
+- Visit our official Devfest'23 website through the link : providing the link 
+- Click on the ""Register Now"" button to start the registration process.
+- You will be guided through the registration form where you can select to register for the hackathon. 
+- Once your registration is complete, you will receive a confirmation email later on whether you are accepted or not, with more details about devfest'23."
+Event Hackathon,Project submission,"Each team will submit their project in DevPost including:
+- Project description
+- Project presentation
+- Source code"
+Event Hackathon,Judging,"Judging criteria include:
+- Creativity and innovation
+- Clean implementation
+- Business value"
+Event Hackathon,Prizes,"Hackathon prizes include a trip to anywhere in the world. (jk, it is to be fixed)"
+Event Hackathon,Workshops and mentorship,"While there are no workshops scheduled for the hackathon, there will be mentorship sessions where our mentors will be available to assist you whenever you need guidance or have questions during the hackathon. 
+"
+Event Hackathon,Hackathon pack,"Things you need to bring: 
+Your laptop, with its bag (Charger /keyboard/ mouse), phone and charger, headphones if you have a tendency to listen to something in the background, sweaters and one T-shirt (You'll get a new one at the event ), and a sleeping bag."
+Event Hackathon,Mentorship,"There will be mentors to help you with your issues, who are experts in their fields. "

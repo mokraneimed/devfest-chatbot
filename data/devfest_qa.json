@@ -1,0 +1,312 @@
+[
+    {
+        "chunk":"",
+        "questions": [
+            "",
+            "Who is the president of Algeria?",
+            "What is GDG Algiers?",
+            "who is the winner of Devfest last year?",
+            "Who is the creator of DevFest?"
+        ]
+    },
+    {
+        "chunk": "Event\nDescription\nDevFest 2023, which is short for \"Developer Festival,\" is a yearly tech event organized by Google Developers Groups.\nAt DevFest, you can meet other tech enthusiasts , learn new things, and stay updated on the latest tech trends. ",
+        "questions": [
+            "What is DevFest 2023?",
+            "Who organizes DevFest 2023?",
+            "What can attendees do at DevFest 2023?",
+            "What kind of tech enthusiasts can be found at DevFest 2023?",
+            "What are some of the latest tech trends discussed at DevFest 2023?"
+        ]
+    },
+    {
+        "chunk": "Event\nformat and timeline\nDevfest\u201923 will be divided into two parts: Challenges happening online on October 19, where you can tackle tech problems and learn and the second part Hackathon on November 30, where you can code, create, and compete.",
+        "questions": [
+            "What type of event is Devfest'23?",
+            "When will the Challenges portion of Devfest'23 take place?",
+            "What type of activities will be available during the Hackathon portion of Devfest'23?",
+            "What is the timeline for Devfest'23?",
+            "What is the purpose of Devfest'23?"
+        ]
+    },
+    {
+        "chunk": "Event\nParticipants number\nThe Challenges part, which takes place on October 19th, allows an unlimited number of participants to join online.\r\nFor the Hackathon on November 30, we are expecting 100 participants to compete and showcase their technical skills.\r",
+        "questions": [
+            "What is the date of the Challenges part?",
+            "How many participants are expected to join the Hackathon?",
+            "What type of skills will be showcased at the Hackathon?",
+            "What is the format of the Challenges part?",
+            "What is the duration of the Hackathon?"
+        ]
+    },
+    {
+        "chunk": "Event\nStructure\nThere will be two parts: a hackathon and online challenges",
+        "questions": [
+            "What type of event is it?",
+            "What is the structure of the event?",
+            "What will be included in the hackathon?",
+            "What kind of online challenges will be available?",
+            "How long will the event last?"
+        ]
+    },
+    {
+        "chunk": "Event Challenges\nTimeline and place\nDate: October 19th, 2023\r\nPlace: GDG Challenges platform\r\nTimelines: 10 days",
+        "questions": [
+            "What is the date of the Event Challenges?",
+            "Where will the Event Challenges take place?",
+            "How long will the Event Challenges last?",
+            "What platform will the Event Challenges be hosted on?",
+            "What is the timeline for the Event Challenges?"
+        ]
+    },
+    {
+        "chunk": "Event Challenges\nFields\n Web, Mobile, AI, Cyber Security, Game Dev",
+        "questions": [
+            "What are the different event challenges available?",
+            "What fields are covered in the event challenges?",
+            "What is the focus of the Web event challenge?",
+            "What is the focus of the Mobile event challenge?",
+            "What is the focus of the AI event challenge?"
+        ]
+    },
+    {
+        "chunk": "Event Challenges\nJudging\nJudging criteria will be a scoring system taking into consideration the number and difficulty of solved challenges alongside the time needed for that",
+        "questions": [
+            "What is the judging criteria for the event challenges?",
+            "How is the scoring system determined for the event challenges?",
+            "What factors are taken into consideration when judging the event challenges?",
+            "How many challenges must be solved to receive a good score?",
+            "How much time is allowed for solving the event challenges?"
+        ]
+    },
+    {
+        "chunk": "Event Challenges\nRegistering\nEveryone is welcome to register for the challenges as they will be online",
+        "questions": [
+            "How do I register for the event challenges?",
+            "Is there a cost associated with registering for the event challenges?",
+            "What is the process for registering for the event challenges?",
+            "Are there any age restrictions for registering for the event challenges?",
+            "Are the event challenges only available online?"
+        ]
+    },
+    {
+        "chunk": "Event Challenges\nField selection\nA partcipant has to choose a specific field to participate in",
+        "questions": [
+            "What fields are available for participants to choose from?",
+            "How does a participant select a field to participate in?",
+            "What criteria must be met in order to participate in a specific field?",
+            "Are there any restrictions on which fields a participant can choose from?",
+            "What are the benefits of participating in a specific field?"
+        ]
+    },
+    {
+        "chunk": "Event Challenges\nChallenges plateform\nFind Devfest challenges at GDG Challenges plateform: gdg.challenges.com",
+        "questions": [
+            "What types of events are available on the GDG Challenges platform?",
+            "How can I find Devfest challenges on the GDG Challenges platform?",
+            "What is the URL for the GDG Challenges platform?",
+            "What are the benefits of participating in Devfest challenges?",
+            "What types of challenges are available on the GDG Challenges platform?"
+        ]
+    },
+    {
+        "chunk": "Event Challenges\nParticipation\nYou can participate by signing up in GDG challenges plateform",
+        "questions": [
+            "What are the Event Challenges?",
+            "How can I participate in the Event Challenges?",
+            "What is the GDG Challenges Plateform?",
+            "What is the process for signing up for the Event Challenges?",
+            "What are the benefits of participating in the Event Challenges?"
+        ]
+    },
+    {
+        "chunk": "Event Challenges\nPrizes\nPrizes include computer components, software subscriptions and hoodies",
+        "questions": [
+            "What type of computer components are included in the prizes?",
+            "What software subscriptions are included in the prizes?",
+            "What type of hoodies are included in the prizes?",
+            "How many prizes are available for the event challenges?",
+            "What are the criteria for winning the event challenges?"
+        ]
+    },
+    {
+        "chunk": "Event Challenges\nRules\nCheating will disqualify the participant in order to preserve the integrity of the competition ",
+        "questions": [
+            "What are the event challenges?",
+            "What are the rules of the event?",
+            "What happens if a participant cheats?",
+            "How does the competition maintain its integrity?",
+            "What are the consequences of cheating?"
+        ]
+    },
+    {
+        "chunk": "Event Challenges\nLeaderboard\nThere will be a leaderboard on the Challenges plateform for every field which will get freezed on the last phase of the competition ",
+        "questions": [
+            "What is the purpose of the leaderboard?",
+            "How will the leaderboard be updated?",
+            "What criteria will be used to rank participants on the leaderboard?",
+            "How will the leaderboard be displayed?",
+            "What is the last phase of the competition?"
+        ]
+    },
+    {
+        "chunk": "Event Challenges\nWinning\nWinners will be anounced and mentioned in our social media",
+        "questions": [
+            "What kind of event challenges are available?",
+            "What are the criteria for winning?",
+            "How will winners be anounced?",
+            "What social media platforms will winners be mentioned on?",
+            "What are the rewards for winning?"
+        ]
+    },
+    {
+        "chunk": "Event Challenges\nCompetition format\nThe Challenges are an individual competition",
+        "questions": [
+            "What type of event is the Challenges?",
+            "What is the format of the competition?",
+            "Is the Challenges a team or individual competition?",
+            "How many participants can compete in the Challenges?",
+            "What are the rules of the Challenges?"
+        ]
+    },
+    {
+        "chunk": "Event Challenges\nMentorship\nThere will be mentors and experts to provide hints and guidance throughout the competition",
+        "questions": [
+            "What type of event challenges will be available?",
+            "What kind of mentorship will be provided?",
+            "Who will be providing the mentorship?",
+            "What kind of hints and guidance will be provided?",
+            "How will the mentors and experts be available during the competition?"
+        ]
+    },
+    {
+        "chunk": "Event Challenges\nCertificates\nAll participants solving a certain threshold of challenges will receive a certificate",
+        "questions": [
+            "What is the threshold of challenges that must be solved to receive a certificate?",
+            "What type of challenges are included in the event?",
+            "What type of certificate will be awarded to participants?",
+            "How will participants receive their certificate?",
+            "Are there any additional requirements to receive a certificate?"
+        ]
+    },
+    {
+        "chunk": "Event Challenges\nRegistration\nRegistration are open until the last day before the start of the challenges",
+        "questions": [
+            "When does registration for the event challenges close?",
+            "What is the deadline for registering for the event challenges?",
+            "How can I register for the event challenges?",
+            "What is the process for registering for the event challenges?",
+            "What happens if I miss the registration deadline for the event challenges?"
+        ]
+    },
+    {
+        "chunk": "Event Challenges\nContact\nAdditional clarifications and details can be obtained by raching out GDG through Community server discord and social media platforms",
+        "questions": [
+            "What kind of event challenges are available?",
+            "Who should I contact for more information about the event challenges?",
+            "What is the best way to reach out to GDG for additional clarifications and details?",
+            "What social media platforms can I use to get more information about the event challenges?",
+            "What kind of support does GDG provide for event challenges?"
+        ]
+    },
+    {
+        "chunk": "Event Hackathon\nDate\nDate: October 30th to the 1st December, 2023",
+        "questions": [
+            "What is the event Hackathon?",
+            "When is the event Hackathon taking place?",
+            "Where will the event Hackathon be held?",
+            "What activities will be available at the event Hackathon?",
+            "What is the cost to attend the event Hackathon?"
+        ]
+    },
+    {
+        "chunk": "Event Hackathon\nTheme\nThe theme of this year will be Smart Cities, the subthemes and the hacker guide will be provided only to the participants.",
+        "questions": [
+            "What is the theme of this year's Hackathon?",
+            "What are the subthemes of this year's Hackathon?",
+            "How can participants access the hacker guide?",
+            "What kind of projects can be developed during the Hackathon?",
+            "What kind of resources are available to participants during the Hackathon?"
+        ]
+    },
+    {
+        "chunk": "Event Hackathon\nTeams\nThe team size is 5 participants",
+        "questions": [
+            "What is the Event Hackathon?",
+            "How many people can be on a team?",
+            "What is the purpose of the Event Hackathon?",
+            "What are the rules for the Event Hackathon?",
+            "What are the benefits of participating in the Event Hackathon?"
+        ]
+    },
+    {
+        "chunk": "Event Hackathon\nRegistration\nRegistration for DevFest 2023 is simple and convenient. Follow these steps to secure your spot:\r\n- Visit our official Devfest\u201923 website throughout the link : providing the link \r\n- Click on the \"Register Now\" button to start the registration process.\r\n- You will be guided through the registration form where you can select to register for the hackathon. \r\n- Once your registration is complete, you will receive a confirmation email whether you are accepted or not, with more details about devfest\u201923.",
+        "questions": [
+            "What is the link to the official DevFest 2023 website?",
+            "What is the process for registering for the DevFest 2023 Hackathon?",
+            "What information is required to complete the registration form?",
+            "What happens after the registration is complete?",
+            "How will I know if I am accepted or not?"
+        ]
+    },
+    {
+        "chunk": "Event Hackathon\nProject submission\nTeam will submit their project in DevPost including:\n- Project description\n- Project presentation\n- Source code",
+        "questions": [
+            "What is the purpose of the Event Hackathon?",
+            "What is the process for submitting a project?",
+            "What information is required for a project submission?",
+            "What platform is used to submit projects?",
+            "What is the format of the project presentation?"
+        ]
+    },
+    {
+        "chunk": "Event Hackathon\nJudging\nJudging criteria include:\n- Creativity and innovation\n- Clean implemntation\n- Business value",
+        "questions": [
+            "What is the purpose of the Event Hackathon?",
+            "What is the judging process for the Event Hackathon?",
+            "What criteria are used to judge the Event Hackathon?",
+            "How is creativity and innovation evaluated in the Event Hackathon?",
+            "What is the importance of clean implementation in the Event Hackathon?"
+        ]
+    },
+    {
+        "chunk": "Event Hackathon\nPrizes\nHackathon prizes include a trip to anywhere in the world",
+        "questions": [
+            "What is the event Hackathon?",
+            "What are the prizes for the Hackathon?",
+            "What is the grand prize for the Hackathon?",
+            "Where can the grand prize for the Hackathon take you?",
+            "What other prizes are available for the Hackathon?"
+        ]
+    },
+    {
+        "chunk": "Event Hackathon\nWorkshops and mentorship\nWhile there are no workshops scheduled for the hackathon,\r\nYes, there will be mentorship sessions, our mentors will be available to assist you whenever you need guidance or have questionss during the hackathon. \r",
+        "questions": [
+            "What is the event Hackathon?",
+            "What kind of workshops will be available at the Hackathon?",
+            "Are there any scheduled workshops for the Hackathon?",
+            "Will there be mentorship sessions at the Hackathon?",
+            "Who will be providing mentorship sessions at the Hackathon?"
+        ]
+    },
+    {
+        "chunk": "Event Hackathon\nHackathon pack\nThings you need to bring: \nYour laptop, with its bag (Charger/keyboard/ mouse), phone and charger, headphones if you need to listen to music,Sweaters and one T-shirt(You\u2019ll get a new one at the event ),sleeping bag.",
+        "questions": [
+            "What is the purpose of the event Hackathon?",
+            "What is included in the Hackathon pack?",
+            "What type of laptop should I bring to the event?",
+            "Do I need to bring my own headphones to the event?",
+            "Will I receive a new T-shirt at the event?"
+        ]
+    },
+    {
+        "chunk": "Event Hackathon\nMentorship\nThere will be mentors to help you with your issues, experts in their fields. ",
+        "questions": [
+            "What type of event is the Hackathon?",
+            "What kind of mentorship will be available at the Hackathon?",
+            "Who are the mentors at the Hackathon?",
+            "What topics will the mentors be experts in?",
+            "What kind of issues can the mentors help with?"
+        ]
+    }
+]

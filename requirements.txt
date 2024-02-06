@@ -1,0 +1,24 @@
+langchain
+openai
+fastapi
+<<<<<<< HEAD
+<<<<<<< HEAD
+uvicorn
+=======
+uvicorn
+chromadb
+tiktoken
+pandas
+python-dotenv
+jsonlines
+>>>>>>> 1d22b64fb9ee153ecbd93be15229f0c105872790
+=======
+uvicorn
+chromadb
+pinecone-client
+ai21
+tiktoken
+pandas
+python-dotenv
+jsonlines
+>>>>>>> 9e01866e1228f2e40a6f1608da51d7d4b23506ca
